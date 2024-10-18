@@ -6,8 +6,8 @@ NOTE: The scripts are provided as is and they may or may not work. Use at your o
 NOTE: All the scripts were made for MacOS. They could in theory work on Linux as well but they have not been tested.
 
 ## Scripts list
-- `docker-volume-containers.sh`: can be used for finding docker volumes that are no longer in use
-- `find-critical-vulnerabilities.sh`: find vulnerabilities in nodejs projects (yarn or npm only at the moment)
+- `docker-volume-containers.sh`: find docker volumes that are no longer in use
+- `find-critical-vulnerabilities.sh`: find vulnerabilities in nodejs projects (yarn or npm supported at the moment)
 - `find-repos-with-unstaged-changes.sh`: find repositories where there are unstaged changes
 - `git-pull-all.sh`: do a `git pull` for all git projects in the folder
 
